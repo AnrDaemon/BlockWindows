@@ -1,4 +1,5 @@
  971033 9 Update for Windows Activation Technologies
+2882822 9 Update adds ITraceRelogger interface support.
 2902907 9 Microsoft Security Essentials
 2952664 9 "Compatibility" update for upgrading Windows 7
 2966583 9 "Improvements" for the "System Update Readiness Tool" in Windows 7 and Windows Server 2008 R2
@@ -20,8 +21,16 @@
 3075851 5 Windows Update Client for Windows 7 and Windows Server 2008 R2: August 2015
 3075853 5 Windows Update Client for Windows 8.1 and Windows Server 2012 R2: August 2015
 3080149 9 Update for "customer experience" and "diagnostic telemetry".
+3081954 9 This update adds telemetry data points to Work Folders for Asimov telemetry pipeline in Windows 7
+3083324 9 Windows 10 preparation.
+3083710 9 Windows 10 preparation.
+3102810 9 Fixes an issue regarding long wait while searching for Windows Updates but also has Windows 10 upgrade preparation for Windows 7.
 3112336 5 Windows Update Client for Windows 8.1 and Windows Server 2012 R2: December 2015
 3112343 5 Windows Update Client for Windows 7 and Windows Server 2008 R2: December 2015
+3118401 9 Allows Windows 10 dependant Universal Runtime apps to run on earlier versions of Windows.
 3123862 9 Updated capabilities to upgrade Windows 8.1 and Windows 7
 3135445 5 Windows Update Client for Windows 7 and Windows Server 2008 R2: February 2016
 3138612 5 Windows Update Client for Windows 7 and Windows Server 2008 R2: March 2016
+3138615 5 Windows Update Client for Windows 8.1
+3139929 9 Get Windows 10 update for MSIE
+3150513 9 Compactibility Update (another GWX) for Windows 7/8.1
